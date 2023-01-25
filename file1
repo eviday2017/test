@@ -1,7 +1,9 @@
 Line 1 file 1 // Changed this line in github editor to test merging
-Line 2 file 1 // Changed this line remotely and in github editor also to test merging
+Line 2 file 1 // Changed this line also locally remotely and in github editor also to test merging
 // Added LIne 3
 Line 3 file 1 // Changed this line on github editor
 //  Added next line on github editor to try pull command
 Line 4 file 1
 LIne 5 file 1 // Added this line in github editor also to test merging
+// Added line to test merge
+Line 5 file 1 local change
