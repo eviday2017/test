@@ -1,7 +1,7 @@
 line 1 file 2
 line 2 file 2
 line 3 file 2
-Line 4 file 2 // added in main
-Line 5 file 2 // added in main
+line 4 file 2 // changed on branch 1
+line 5 file 2 // changed on branch 1Line 4 file 2 // added in main
 Line 6 file 2 // added in main
 line 7 file 2 // added in main
