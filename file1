@@ -1,4 +1,6 @@
 Line 1 file 1
 Line 2 file 1 // Changed this line
 // Added LIne 3
-Line 3 file 2
+Line 3 file 1 // Changed this line on github editor
+//  Added next line on github editor to try pull command
+Line 4 file 1
